@@ -4,7 +4,7 @@ An interactive web application that visualizes sorting and searching algorithms 
 
 ## Live Demo
 
-[Live Demo](https://algorithm-visualizer.vercel.app) - Deploy this project on Vercel for a live demonstration.
+[Live Demo](https://algorithm-visualizer.vercel.app) - Live demonstration.
 
 ## Features
 
