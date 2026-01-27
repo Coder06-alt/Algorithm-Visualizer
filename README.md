@@ -2,9 +2,6 @@
 
 An interactive web application that visualizes sorting and searching algorithms step-by-step to help users understand how algorithms work internally. Built with React, Next.js, and TypeScript.
 
-## Live Demo
-
-[Live Demo](https://algorithm-visualizer.vercel.app) - Live demonstration.
 
 ## Features
 
